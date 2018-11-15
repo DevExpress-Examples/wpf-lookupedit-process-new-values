@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/HowToCreateLookUpEdit/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/HowToCreateLookUpEdit/MainWindow.xaml))
+* [UserControl1.xaml](./CS/HowToCreateLookUpEdit/UserControl1.xaml) (VB: [UserControl1.xaml](./VB/HowToCreateLookUpEdit/UserControl1.xaml))
+* **[ProductList.cs](./CS/HowToCreateLookUpEdit/ViewModel/ProductList.cs) (VB: [ProductList.vb](./VB/HowToCreateLookUpEdit/ViewModel/ProductList.vb))**
+* [Products.cs](./CS/HowToCreateLookUpEdit/ViewModel/Products.cs)
+<!-- default file list end -->
 # LookUpEdit - Processing New Values
 
 
