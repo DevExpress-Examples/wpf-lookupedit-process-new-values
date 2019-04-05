@@ -1,10 +1,10 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainWindow.xaml](./CS/HowToCreateLookUpEdit/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/HowToCreateLookUpEdit/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/HowToCreateLookUpEdit/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/HowToCreateLookUpEdit/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/HowToCreateLookUpEdit/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/HowToCreateLookUpEdit/MainWindow.xaml.vb))
 * [UserControl1.xaml](./CS/HowToCreateLookUpEdit/UserControl1.xaml) (VB: [UserControl1.xaml](./VB/HowToCreateLookUpEdit/UserControl1.xaml))
-* [UserControl1.xaml.cs](./CS/HowToCreateLookUpEdit/UserControl1.xaml.cs) (VB: [UserControl1.xaml](./VB/HowToCreateLookUpEdit/UserControl1.xaml))
+* [UserControl1.xaml.cs](./CS/HowToCreateLookUpEdit/UserControl1.xaml.cs) (VB: [UserControl1.xaml.vb](./VB/HowToCreateLookUpEdit/UserControl1.xaml.vb))
 * [ProductList.cs](./CS/HowToCreateLookUpEdit/ViewModel/ProductList.cs) (VB: [ProductList.vb](./VB/HowToCreateLookUpEdit/ViewModel/ProductList.vb))
 * [Products.cs](./CS/HowToCreateLookUpEdit/ViewModel/Products.cs) (VB: [Products.vb](./VB/HowToCreateLookUpEdit/ViewModel/Products.vb))
 <!-- default file list end -->
