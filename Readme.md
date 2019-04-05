@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainWindow.xaml](./CS/HowToCreateLookUpEdit/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/HowToCreateLookUpEdit/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/HowToCreateLookUpEdit/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/HowToCreateLookUpEdit/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/HowToCreateLookUpEdit/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/HowToCreateLookUpEdit/MainWindow.xaml.vb))
 <!-- default file list end -->
 # LookUpEdit - Processing New Values
