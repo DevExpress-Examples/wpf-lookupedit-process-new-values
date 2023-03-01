@@ -13,7 +13,7 @@ This example allows users to add new items to the [LookUpEdit](https://docs.deve
 ## Implementation Details
 
 1. Use the [LookUpEditBase.AddNewButtonPlacement](https://docs.devexpress.com/WPF/DevExpress.Xpf.Editors.LookUpEditBase.AddNewButtonPlacement) property to display the **Add New** button.
-2. When a user clicks this button or enters a value that does not exist in the data source, the `LookUpEdit` raises the [ProcessNewValue](https://docs.devexpress.com/WPF/DevExpress.Xpf.Editors.LookUpEditBase.ProcessNewValue) event. This event allows you to add a new item to the data source.
+2. When a user clicks this button or enters a value that does not exist in the data source, the `LookUpEdit` raises the [ProcessNewValue](https://docs.devexpress.com/WPF/DevExpress.Xpf.Editors.LookUpEditBase.ProcessNewValue) event.
 3. Create an [EventToCommand](https://docs.devexpress.com/WPF/DevExpress.Mvvm.UI.EventToCommand) behavior and execute the `ShowProductForm` command when the `ProcessNewValue` event is raised.
 4. In the `ShowProductForm` command, use the [DialogService](https://docs.devexpress.com/WPF/17467/mvvm-framework/services/predefined-set/dialog-services/dialogservice) to invoke a new item dialog. This dialog contains the [DataLayoutControl](https://docs.devexpress.com/WPF/DevExpress.Xpf.LayoutControl.DataLayoutControl) that allows users to specify the item's properties.
 5. Add the specified item to the data source if the user clicks the **Add** button.
