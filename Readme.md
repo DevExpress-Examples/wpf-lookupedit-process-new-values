@@ -42,7 +42,7 @@ This example allows users to add new items to the [LookUpEdit](https://docs.deve
 * [WPF LookUpEdit - Filter by Multiple Columns](https://github.com/DevExpress-Examples/wpf-lookupedit-filter-by-multiple-columns)
 * [Use DialogService to Show a Modal Dialog Window](https://github.com/DevExpress-Examples/wpf-mvvm-framework-ui-services-dialogservice)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-lookupedit-process-new-values&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-lookupedit-process-new-values&~~~was_helpful=no)
 
